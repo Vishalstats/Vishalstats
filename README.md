@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vishalbande0707@gmail.com**
 
-- ⚡ Fun fact **I'm charismaticvishal**
+- ⚡ Fun fact **....Passion about Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
