@@ -1,4 +1,6 @@
 
+![data](https://user-images.githubusercontent.com/89984282/138541897-d9bc5810-e2ec-48bf-81cc-dcaff5e0dba4.jpeg)
+
 
 <h1 align="center">Hi 👋, I'm Vishal Bande</h1>
 <h3 align="center">I'm looking for a job opportunity in the field of Data science/Data analysis</h3>
